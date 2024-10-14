@@ -1,0 +1,10 @@
+1. Buat struktur codenya
+2. Buat fitur insert
+3. Buat fitur update
+4. Buat fitur delete
+5. Buat fitur maintenance
+6. Fix arraylist untuk assetMaintenance agar sinkron dengan arraylist assetList
+7. Fix maintenance untuk format data
+8. Fix fitur 2 dan 3.
+
+P.S File finalnya ada di folder main/src/Main.java
